@@ -101,7 +101,7 @@ Here’s the breakdown of insights from the **Top 10 Highest-Paying Data Analyst
 - 🧑‍💼 **Job Title Variety:**  
   There’s notable diversity in job titles, from **Data Analyst** to **Director of Analytics**, reflecting a wide range of **specializations and career paths** within the analytics domain.  
 
-![Top Paying Data Analyst Jobs](project_sql\images\top_paying_data_analyst_jobs.png) 
+![Top Paying Data Analyst Jobs](project_sql\assets\top_paying_data_analyst_jobs.png) 
 *A bar graph visualizing the salaries for the top 10 salaries for data analysts*
 
 ### 💡 2. Skills for Top-Paying Data Analyst Jobs 🚀
@@ -158,7 +158,7 @@ Here’s the breakdown of insights from the **Skills for Top 10 Highest-Paying D
 - 📚 **Other Valuable Skills:**  
   Skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand, highlighting additional areas for skill development.  
 
-![Top Skills requried](project_sql\images\Top_skills_req.png)
+![Top Skills requried](project_sql\assets\Top_skills_req.png)
 *A bar graph visualizing the top skills required for data analysts*
 
 
@@ -197,7 +197,7 @@ Here’s the breakdown of the **most demanded skills for Data Analysts**, based 
 - 🐍 **Technical & Visualization Skills:**  
   Programming and visualization tools like **Python**, **Tableau**, and **Power BI** are essential, highlighting the increasing importance of **technical expertise** for **data storytelling** and **decision support**.  
 
-  ![Demand Skills Count](project_sql\images\demand_skills_count.png)
+  ![Demand Skills Count](project_sql\assets\demand_skills_count.png)
 *A pie chart  visualizing the most demand skills required for data analysts*
 
 ### 💡 4. Skills Based on Salary 🚀
@@ -238,7 +238,7 @@ Here’s the breakdown of the **top-paying skills for Data Analysts**:
 - ☁️ **Cloud Computing Expertise:**  
   Familiarity with **cloud platforms and data engineering tools** underscores the growing importance of **cloud-based analytics environments**, suggesting that cloud proficiency **significantly boosts earning potential** for data analysts.  
 
- ![Top Skills based on Salary](project_sql\images\Skills_based_onSalary.png)
+ ![Top Skills based on Salary](project_sql\assets\Skills_based_onSalary.png)
 *A Bar chart  visualizing the most top skills based on high salary required for data analysts*
 
 ### 💡 5. Most Optimal Skills to Learn 🚀
