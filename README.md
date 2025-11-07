@@ -333,7 +333,7 @@ This project helped me grow from just analyzing data to **interpreting insights 
 | 🧩 **Project Title** | Data Analyst Job Market Insight |
 | 📅 **Timeline** | 2025 |
 | 🎯 **Goal** | To identify the most in-demand and high-paying data analyst skills to guide career focus and learning paths. |
-| 🗂️ **Dataset Source** | [Data Job Postings Dataset](#) *(csv_files)* |
+| 🗂️ **Dataset Source** | [Data Job Postings Dataset](csv_files)
 | 🧠 **Key Questions Answered** | 1️⃣ What are the top-paying data analyst jobs?<br>2️⃣ What skills are required for those roles?<br>3️⃣ Which skills are most in-demand?<br>4️⃣ Which skills attract the highest salaries?<br>5️⃣ What are the most optimal skills to learn? |
 | 🛠️ **Tools Used** | PostgreSQL, SQL, Visual Studio Code, Git & GitHub, Excel, PowerPoint |
 | 📊 **Key Insights** | - Salary range for top data analyst roles: **$184,000–$650,000**.<br>- Most in-demand skills: **SQL, Excel, Tableau/Power BI**.<br>- Top employers: **Meta, SmartAsset, AT&T**.<br>- Optimal learning focus: balancing technical and business skills. |
